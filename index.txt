@@ -2,7 +2,7 @@
 <head>
 <title> aditya</title>
 </head>
-<body>
+<body bg color:red>
 <h1>bsc computer science</h1>
 <p>Devops means development+operation</p>
 </body>
